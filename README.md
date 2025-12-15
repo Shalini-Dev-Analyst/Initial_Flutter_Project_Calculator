@@ -1,16 +1,40 @@
-# api_integration_using_bloc
+# 🧮 Flutter Basic Calculator
 
-A new Flutter project.
+A simple **Basic Calculator application built using Flutter**.  
+This app performs basic arithmetic operations with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧹 Clear / Reset calculation  
+- 📱 Responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK
+- Android Studio / VS Code
+- Emulator or physical device
+
+---
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
